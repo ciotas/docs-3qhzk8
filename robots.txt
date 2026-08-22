@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ekhrnd.toto88php.site/sitemap.xml
